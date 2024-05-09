@@ -1,3 +1,4 @@
 this is a simple text file,text is ok. file updating.
 some new code changes update.
-code changes in master.
+code change in master.
+new code changes.
